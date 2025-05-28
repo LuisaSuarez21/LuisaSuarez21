@@ -14,7 +14,7 @@
 - 🛠️ Gestión de productos y procesos
 - 📈 Toma de decisiones basada en datos
 
-📂 Proyectos_PipisSocoli
+## 📂 Proyectos_PipisSocoli
 Aquí encontrarás algunos de los proyectos que he desarrollado en mi emprendimiento:
 - https://github.com/LuisaSuarez21/Proyectos_PipisSocoli.git
 - 1️⃣ Proyecto Muñecas XV años 💡 Un poryecto donde elaboré 200 muñecas para una fiesta de Xv años, donde obtuve buenos resultados, datos para analizar sobre el comportamiento de los clientes y el efecto que tuvieron, varias metricas de gestión de producción y gestion financiera.
