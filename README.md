@@ -17,7 +17,7 @@
 
 ## 📂 Proyectos_PipisSocoli
 Aquí encontrarás algunos de los proyectos que he desarrollado en mi emprendimiento:
-- [Proyectos_PipisSociAl](https://github.com/LuisaSuarez21/Proyectos_PipisSociAl)
+- 📂 [Proyectos_PipisSociAl](https://github.com/LuisaSuarez21/Proyectos_PipisSociAl)
 - 1️⃣ Proyecto Muñecas XV años 💡 Un poryecto donde elaboré 200 muñecas para una fiesta de Xv años, donde obtuve buenos resultados, datos para analizar sobre el comportamiento de los clientes y el efecto que tuvieron, varias metricas de gestión de producción y gestion financiera.
 - 2️⃣ Proyecto Cuadro del Mes 📊 Proyecto interesante donde tuve que aplicar gestión de proyectos con planifiación por etapas, gestión financiera, control de calidad, seguimiento de procesos y de comunicación con los clientes.
 
