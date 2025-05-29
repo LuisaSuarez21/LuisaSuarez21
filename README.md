@@ -11,16 +11,12 @@
 - 🚀 Buscando oportunidades donde pueda aplicar mis habilidades en gestión de datos, desarrollo de productos y eficiencia operativa.
 
 ## 🔧 Tecnologías y habilidades
-- 📊 Análisis de datos: Python, Pandas, SQL, Excel
-- 🛠️ Gestión de productos y procesos
-- 📈 Toma de decisiones basada en datos
-
-** ![Gestión de datos](https://img.shields.io/badge/Gestión_de_datos_y_procesos-Maestría-purple)
+![Gestión de datos](https://img.shields.io/badge/Gestión_de_datos_y_procesos-Maestría-purple)
 ![Limpieza de datos](https://img.shields.io/badge/Limpieza_de_datos-Fundamental-green)
-![Toma de decisiones](https://img.shields.io/badge/Toma_de_decisiones-Datos_al_mando-orange) 
+![Toma de decisiones](https://img.shields.io/badge/Toma_de_decisiones-Datos_al_mando-orange)
 ![Análisis de datos](https://img.shields.io/badge/Análisis_de_datos-Experta-blue)  
-![SQL](https://img.shields.io/badge/SQL-Intermedio-yellow)  
-![Python para datos](https://img.shields.io/badge/Python_para_datos-Avanzado-orange)  
+![SQL](https://img.shields.io/badge/SQL-Intermedio-yellow)
+![Python para datos](https://img.shields.io/badge/Python_para_datos-Avanzado-orange) 
 ![Visualización de datos](https://img.shields.io/badge/Visualización_de_datos-Activa-red)
 
 
