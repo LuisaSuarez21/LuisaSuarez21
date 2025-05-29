@@ -14,6 +14,17 @@
 - 📊 Análisis de datos: Python, Pandas, SQL, Excel
 - 🛠️ Gestión de productos y procesos
 - 📈 Toma de decisiones basada en datos
+- ![Análisis de datos](https://img.shields.io/badge/Análisis_de_datos-Experta-blue)
+![Limpieza de datos](https://img.shields.io/badge/Limpieza_de_datos-Fundamental-green)
+- ![SQL](https://img.shields.io/badge/SQL-Intermedio-yellow)
+![Python](https://img.shields.io/badge/Python_para_datos-Avanzado-orange)
+- 
+![Análisis de datos](https://img.shields.io/badge/Análisis_de_datos-Experta-blue)  
+![Limpieza de datos](https://img.shields.io/badge/Limpieza_de_datos-Fundamental-green)  
+![SQL](https://img.shields.io/badge/SQL-Intermedio-yellow)  
+![Python para datos](https://img.shields.io/badge/Python_para_datos-Avanzado-orange)  
+![Visualización de datos](https://img.shields.io/badge/Visualización_de_datos-Activa-red)
+
 
 ## 📂 Proyectos_PipisSocoli
 Aquí encontrarás algunos de los proyectos que he desarrollado en mi emprendimiento:
