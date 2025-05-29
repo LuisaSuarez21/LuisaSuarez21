@@ -11,8 +11,8 @@
 - 🚀 Buscando oportunidades donde pueda aplicar mis habilidades en gestión de datos, desarrollo de productos y eficiencia operativa.
 
 ## 🔧 Tecnologías y habilidades
-*![Gestión de datos](https://img.shields.io/badge/Gestión_de_datos_y_procesos-Maestría-purple)
-*![Limpieza de datos](https://img.shields.io/badge/Limpieza_de_datos-Fundamental-green)
+-![Gestión de datos](https://img.shields.io/badge/Gestión_de_datos_y_procesos-Maestría-purple)
+-![Limpieza de datos](https://img.shields.io/badge/Limpieza_de_datos-Fundamental-green)
 *![Toma de decisiones](https://img.shields.io/badge/Toma_de_decisiones-Datos_al_mando-orange)
 *![Análisis de datos](https://img.shields.io/badge/Análisis_de_datos-Experta-blue)  
 *![SQL](https://img.shields.io/badge/SQL-Intermedio-yellow)
