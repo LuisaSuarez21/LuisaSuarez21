@@ -1,21 +1,26 @@
 ![Imagen 1](https://github.com/user-attachments/assets/e2b85d77-d49e-464a-9b79-55d0496e076e)
-## ¡Hola a todos! 👋
 <p align="center">
   <a href="https://www.linkedin.com/in/tu-usuario-linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
-**LuisaSuarez21/LuisaSuarez21** es un repositorio ✨ _especial_ ✨ porque es `README.md` aparece en mi perfl Github.
+<p align="center">
+## ¡Hola a todos! 👋
+✨**Luisa Velia Suárez Ramírez** ✨
+</p>
 
-- 🎨 Emprendedora artesanal en crecimiento, enfocada en dar solidez a mi proyecto a través del análisis de datos.
-- ✨ "Los datos cuentan historias. Estoy aquí para descifrarlas."
+Estudie Ingenieria en Alimentos. Me he desempeñado como desarrolladora y asistente de proyectos con experiencia en gestión técnica y organización de equipos. Actualmente incorporo Python en mis tareas para potenciar el análisis, limpieza y visualización de datos. Me gusta descubrir patrones útiles y comunicar información de forma clara y efectiva.
+
 
 ## 💡 Sobre mí
-- 📊 Misión: Convertir mi emprendimiento artesanal en un negocio sólido utilizando análisis de datos para tomar decisiones estratégicas. 
-- 📚 Aprendizaje: En constante evolución, explorando herramientas de gestión de datos y metodologías que me ayuden a optimizar procesos.
-- 🚀 Buscando oportunidades donde pueda aplicar mis habilidades en gestión de datos, desarrollo de productos y eficiencia operativa.
+- 🌎Ubicada en la Cd. de México.
+- 💼Desarrolladora y asistente de proyectos con experiencia en gestión técnica y organización de equipos.
+- 📋Actualmente incorporo Python en mis tareas para potenciar el análisis, limpieza y visualización de datos.
+- ⭐Me entusiasma descubrir patrones útiles y comunicar información de forma clara y efectiva.
+
 
 ## 🔧 Tecnologías y habilidades  
+
 ![Gestión de datos](https://img.shields.io/badge/Gestión_de_datos-Activa-purple)  
 ![Limpieza de datos](https://img.shields.io/badge/Limpieza_de_datos-Activa-green)  
 ![Toma de decisiones](https://img.shields.io/badge/Toma_de_decisiones-Datos_al_mando-orange)  
