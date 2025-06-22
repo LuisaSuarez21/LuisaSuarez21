@@ -1,7 +1,5 @@
-## ¡Hola a todos! 👋
-![Banner](link-de-tu-imagen)
 ![Foto1](https://github.com/user-attachments/assets/678a0365-d0fe-4947-bf7b-7ea9d408bc7a)
-
+## ¡Hola a todos! 👋
 **LuisaSuarez21/LuisaSuarez21** es un repositorio ✨ _especial_ ✨ porque es `README.md` aparece en mi perfl Github.
 
 - 🎨 Emprendedora artesanal en crecimiento, enfocada en dar solidez a mi proyecto a través del análisis de datos.
