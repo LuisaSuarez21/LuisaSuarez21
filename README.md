@@ -1,5 +1,10 @@
-![Foto1](https://github.com/user-attachments/assets/678a0365-d0fe-4947-bf7b-7ea9d408bc7a)
+![Imagen 1](https://github.com/user-attachments/assets/e2b85d77-d49e-464a-9b79-55d0496e076e)
 ## ¡Hola a todos! 👋
+<p align="center">
+  <a href="https://www.linkedin.com/in/tu-usuario-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 **LuisaSuarez21/LuisaSuarez21** es un repositorio ✨ _especial_ ✨ porque es `README.md` aparece en mi perfl Github.
 
 - 🎨 Emprendedora artesanal en crecimiento, enfocada en dar solidez a mi proyecto a través del análisis de datos.
