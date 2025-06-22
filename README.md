@@ -1,14 +1,14 @@
-![Imagen 1](https://github.com/user-attachments/assets/e2b85d77-d49e-464a-9b79-55d0496e076e)
+![Designer2](https://github.com/user-attachments/assets/1c3aca1b-d16f-4c72-8d70-8c1e4fc79a49)
 <p align="center">
   <a href="https://www.linkedin.com/in/tu-usuario-linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
-<p align="center">
-¡Hola a todos! 👋
-#✨Luisa Velia Suárez Ramírez✨#
-</p>
+---
+<h1 align="center">
+¡Hola a todos! Soy Luisa Velia Suárez Ramírez 👋
+</h1>
 
 ---
 <p align="center">
@@ -37,11 +37,8 @@ Estudie Ingenieria en Alimentos. Me he desempeñado como desarrolladora y asiste
 ![Visualización de datos](https://img.shields.io/badge/Visualización_de_datos-Activa-red)
 
 ---
-## 📂 Proyectos_PipisSocoli
-Aquí encontrarás algunos de los proyectos que he desarrollado en mi emprendimiento:
-- 📂 [Proyectos_PipisSociAl](https://github.com/LuisaSuarez21/Proyectos_PipisSociAl)
-- 1️⃣ Proyecto Muñecas XV años 💡 Un poryecto donde elaboré 200 muñecas para una fiesta de Xv años, donde obtuve buenos resultados, datos para analizar sobre el comportamiento de los clientes y el efecto que tuvieron, varias metricas de gestión de producción y gestion financiera.
-- 2️⃣ Proyecto Cuadro del Mes 📊 Proyecto interesante donde tuve que aplicar gestión de proyectos con planifiación por etapas, gestión financiera, control de calidad, seguimiento de procesos y de comunicación con los clientes.
+## 📂 Proyectos
+
 ---
 ## 📬 ¿Dónde encontrarme?
 🌐 [LinkedIn](https://www.linkedin.com/in/luisa-velia-suárez-ramírez-4a2a36367)
