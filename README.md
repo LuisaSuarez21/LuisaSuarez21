@@ -12,6 +12,7 @@
 <p align="center">
 Estudie Ingenieria en Alimentos. Me he desempeñado como desarrolladora y asistente de proyectos con experiencia en gestión técnica y organización de equipos. Actualmente incorporo Python en mis tareas para potenciar el análisis, limpieza y visualización de datos. Me gusta descubrir patrones útiles y comunicar información de forma clara y efectiva.
 </p>
+
 ---
 ## 💡 Sobre mí
 - 🌎Ubicada en la Cd. de México.
@@ -19,6 +20,7 @@ Estudie Ingenieria en Alimentos. Me he desempeñado como desarrolladora y asiste
 - 📋Actualmente incorporo Python en mis tareas para potenciar el análisis, limpieza y visualización de datos.
 - ⭐Me entusiasma descubrir patrones útiles y comunicar información de forma clara y efectiva.
 ---
+
 ## 🔧 Tecnologías y habilidades  
 - Programación: Python, SQL
 - Analisis de datos: Pandas, scipy, matplotlib, plotly
