@@ -6,9 +6,8 @@
 </p>
 
 <p align="center">
-¡Hola a todos! 👋.
-
-✨**Luisa Velia Suárez Ramírez** ✨
+¡Hola a todos! 👋
+✨Luisa Velia Suárez Ramírez✨
 </p>
 
 ---
