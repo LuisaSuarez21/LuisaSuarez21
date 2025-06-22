@@ -1,4 +1,5 @@
-![Designer2](https://github.com/user-attachments/assets/1c3aca1b-d16f-4c72-8d70-8c1e4fc79a49)
+![DST1](https://github.com/user-attachments/assets/551bbbae-dac1-4174-a75c-8b1b9a3f753b)
+
 <p align="center">
   <a href="https://www.linkedin.com/in/tu-usuario-linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
