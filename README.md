@@ -4,10 +4,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
+
 <p align="center">
-¡Hola a todos! 👋
+¡Hola a todos! 👋.
+
 ✨**Luisa Velia Suárez Ramírez** ✨
 </p>
+
 ---
 <p align="center">
 Estudie Ingenieria en Alimentos. Me he desempeñado como desarrolladora y asistente de proyectos con experiencia en gestión técnica y organización de equipos. Actualmente incorporo Python en mis tareas para potenciar el análisis, limpieza y visualización de datos. Me gusta descubrir patrones útiles y comunicar información de forma clara y efectiva.
